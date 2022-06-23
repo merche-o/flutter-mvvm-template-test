@@ -1,0 +1,17 @@
+{
+  "bottomNavHome": "Home",
+  "bottomNavFavorite": "Favorite",
+  "bottomNavSettings": "Settings",
+  "titleOtherView": "OtherView",
+  "settingsTheme": "Theme",
+  "settingsLanguage": "Language",
+  "settingsFontSize": "Font Size",
+  "languageToast": "Language: Language Changed",
+  "fontSizeToast": "Font Size: Development in progress",
+  "themeToast": "Theme: Development in progress",
+  "favoriteViewMessage": "FavoriteView is working",
+  "homeViewAppBarTitle": "GetX Templates on GitHub",
+  "languageSelectorTitle": "Select Language",
+  "cancelText": "Cancel",
+  "confirmText": "Confirm"
+}
